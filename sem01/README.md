@@ -11,3 +11,11 @@ __Ещё материалы:__
 - [Тетрадка с интерактивной визуализацей в plotly](https://nbviewer.jupyter.org/github/hse-econ-data-science/eds_spring_2020/blob/master/sem07_visual/sem07_visualization.ipynb)
 
 
+
+* [Почему важно визуализировать данные](https://www.autodesk.com/research/publications/same-stats-different-graphs) или проект про динозавров
+* [Правила хороших визуализаций](https://robjhyndman.com/hyndsight/graphics/)
+* __Remove to improve: удаляем с визуализаций лишние элементы и делаем их лучше__
+  * [Столбчатые диаграммы](https://www.darkhorseanalytics.com/portfolio/data-looks-better-naked-bar-charts)
+  * [Таблицы](https://www.darkhorseanalytics.com/portfolio/2016/1/7/data-looks-better-naked-clear-off-the-table)
+  * [Геоданные](https://www.darkhorseanalytics.com/portfolio/w24s5qofnzm4wqmsdfq98kwx035tew)
+  * [Круговые диаграммы (смотреть до конца)](https://www.darkhorseanalytics.com/portfolio/2016/1/7/data-looks-better-naked-pie-charts) - благородные Леди и Джентельмены используют круговые диаграммы только [под угрозой расстрела](https://www.biostat.wisc.edu/~kbroman/presentations/IowaState2013/graphs_combined.pdf)
