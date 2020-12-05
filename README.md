@@ -32,7 +32,7 @@
 
 ## Домашние задания
 
-Тут появятся домашние задания
+[Дз#1](https://github.com/FUlyankin/ML_for_marketing/blob/master/sem01/hw1.zip): дедлайн 9 декабря 2020 в 23.30
 
 ## Лекции
 
