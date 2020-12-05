@@ -36,8 +36,8 @@
 
 ## Лекции
 
-Тут появятся лекции
-
+Слайды от Теванян Э.А. [здесь]
+(https://www.dropbox.com/sh/zuif9aj09bz996q/AACoXfMsf_KoC1xvXxnrw3Kpa?dl=0https://www.dropbox.com/sh/zuif9aj09bz996q/AACoXfMsf_KoC1xvXxnrw3Kpa?dl=0)
 
 ## Большой план маленьких побед
 
