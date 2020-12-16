@@ -32,9 +32,9 @@
 
 ## Домашние задания
 
-[Дз#1](https://github.com/FUlyankin/ML_for_marketing/blob/master/sem01/hw1.zip): дедлайн 9 декабря 2020 в 23.30
-[Дз#2](https://github.com/FUlyankin/ML_for_marketing/blob/master/sem03/hw1.zip): 
-[Дз#3](https://github.com/FUlyankin/ML_for_marketing/tree/master/sem06/hw3.zip): дедлайн 20 декабря 2020 в 23.30
+- [Дз#1](https://github.com/FUlyankin/ML_for_marketing/blob/master/sem01/hw1.zip): дедлайн 9 декабря 2020 в 23.30
+- [Дз#2](https://github.com/FUlyankin/ML_for_marketing/blob/master/sem03/hw1.zip): 
+- [Дз#3](https://github.com/FUlyankin/ML_for_marketing/tree/master/sem06/hw3.zip): дедлайн 20 декабря 2020 в 23.30
 
 ## Лекции
 
